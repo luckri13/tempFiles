@@ -3,9 +3,9 @@
 }
 
 #contents.ytd-rich-grid-renderer{ 
---ytd-rich-grid-items-per-row: 10;
---ytd-rich-grid-posts-per-row: 10;
---ytd-rich-grid-movies-per-row: 4;
+--ytd-rich-grid-items-per-row: 8;
+--ytd-rich-grid-posts-per-row: 8;
+--ytd-rich-grid-movies-per-row: 8;
 width: 85% !important;
     display: var(--layout-horizontal_-_display);
     -ms-flex-direction: var(--layout-horizontal_-_-ms-flex-direction);
