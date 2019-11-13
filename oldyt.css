@@ -2,7 +2,7 @@
        margin-top: var(--ytd-masthead-height, 40px);  
 }
 
-.ytd-page-manager{
+ytd-browse{
 --ytd-rich-grid-items-per-row: 10;
 }
 
