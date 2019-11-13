@@ -2,10 +2,6 @@
        margin-top: var(--ytd-masthead-height, 40px);  
 }
 
-ytd-browse{
---ytd-rich-grid-items-per-row: 10;
-}
-
 #contents.ytd-rich-grid-renderer{ 
 --ytd-rich-grid-items-per-row: 10;
 --ytd-rich-grid-posts-per-row: 10;
